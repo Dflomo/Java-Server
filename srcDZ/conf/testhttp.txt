@@ -1,0 +1,9 @@
+400 -- Parse Request Error (Bad Request)
+401 -- Not Authorized
+403 -- Invalid Pass (FORBIDDEN!)
+201 -- PUT Create File
+204 -- DELETE delete file (NO content at that local)
+200 -- GET/POST sends files
+200 -- HEAD sends just head
+500 -- Internal Servererror 
+304 -- Not Modified
